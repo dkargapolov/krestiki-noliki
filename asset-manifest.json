@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krestiki-noliki/static/css/main.71afd5e2.css",
+    "main.js": "/krestiki-noliki/static/js/main.6f052302.js",
+    "static/js/453.ed3810f9.chunk.js": "/krestiki-noliki/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/krestiki-noliki/index.html",
+    "main.71afd5e2.css.map": "/krestiki-noliki/static/css/main.71afd5e2.css.map",
+    "main.6f052302.js.map": "/krestiki-noliki/static/js/main.6f052302.js.map",
+    "453.ed3810f9.chunk.js.map": "/krestiki-noliki/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71afd5e2.css",
+    "static/js/main.6f052302.js"
+  ]
+}
