@@ -1,1 +1,1 @@
-React app with elements, components, props, and states. [https://dkargapolov.github.io/krestiki-noliki/](Open the site)
+React app with elements, components, props, and states. [Open the site](https://dkargapolov.github.io/krestiki-noliki/)
